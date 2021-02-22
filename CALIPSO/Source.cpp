@@ -2,7 +2,5 @@
 using namespace std;
 int main() {
     cout << "IDI NAHUY!";
-
-
-
+    cout << "JAVA GOBNO!";
 }
